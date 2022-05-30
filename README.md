@@ -3,3 +3,5 @@
 tutorial de uso das ferramentas Git e GitHub
 ## Autor Nicolas G.Martins
 Nicolas Gomes Martins
+##playlist
+[inicar tutorial](https://joseassis.com.br/cursos/gitegithub.html)
